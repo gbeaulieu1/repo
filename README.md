@@ -1,6 +1,7 @@
 # Proposed GitHub Labels
 
 ###Scheme B
+
 Group | Subgroup | Label |
 --- | --- | ---
 Priority Level | | ![example label](https://labl.es/svg?text=priority:%20critical&bgcolor=ff0000) ![example label](https://labl.es/svg?text=priority:%20high&bgcolor=ff6666) ![example label](https://labl.es/svg?text=priority:%20low&bgcolor=ffb3b3)
@@ -17,6 +18,7 @@ Supplementary | | ![example label](https://labl.es/svg?text=security&bgcolor=d9d
 Inactive | | ![example label](https://labl.es/svg?text=duplicate&bgcolor=3a2a9e)
 
 ###Scheme C
+
 Group | Subgroup | Label |
 --- | --- | ---
 Priority Level | | ![example label](https://labl.es/svg?text=priority:%20critical&bgcolor=cc0000) ![example label](https://labl.es/svg?text=priority:%20high&bgcolor=ff0000) ![example label](https://labl.es/svg?text=priority:%20low&bgcolor=ffb3b3)
