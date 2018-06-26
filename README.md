@@ -5,7 +5,7 @@
 
 Group | Subgroup | Label |
 --- | --- | ---
-Priority Level | | ![example label](https://labl.es/svg?text=priority:%20critical&bgcolor=cc0000) ![example label](https://labl.es/svg?text=priority:%20high&bgcolor=ff0000) ![example label](https://labl.es/svg?text=priority:%20low&bgcolor=ffb3b3)
+Priority Level | | ![example label](https://labl.es/svg?text=priority-%20critical&bgcolor=cc0000) ![example label](https://labl.es/svg?text=priority-%20high&bgcolor=ff0000) ![example label](https://labl.es/svg?text=priority-%20low&bgcolor=ffb3b3)
 Status | | ![example label](https://labl.es/svg?text=blocked&bgcolor=3a2a9c) ![example label](https://labl.es/svg?text=blocker&bgcolor=3a2a9c) ![example label](https://labl.es/svg?text=question&bgcolor=1155cc) ![example label](https://labl.es/svg?text=needs%20revision&bgcolor=1155cc)  ![example label](https://labl.es/svg?text=needs%20estimate&bgcolor=1155cc)
 Work Type | Front-end | ![example label](https://labl.es/svg?text=pattern&bgcolor=ffcc00) ![example label](https://labl.es/svg?text=theming&bgcolor=ffcc00)
 Work Type | Back-end | ![example label](https://labl.es/svg?text=migration&bgcolor=ff8000) ![example label](https://labl.es/svg?text=drupal&bgcolor=ff8000)
@@ -22,7 +22,7 @@ Inactive | | ![example label](https://labl.es/svg?text=duplicate&bgcolor=ffffff)
 
 Group | Subgroup | Label |
 --- | --- | ---
-Priority Level | | ![example label](https://labl.es/svg?text=priority:%20critical&bgcolor=ff0000) ![example label](https://labl.es/svg?text=priority:%20high&bgcolor=ff6666) ![example label](https://labl.es/svg?text=priority:%20low&bgcolor=ffb3b3)
+Priority Level | | ![example label](https://labl.es/svg?text=priority-%20critical&bgcolor=ff0000) ![example label](https://labl.es/svg?text=priority-%20high&bgcolor=ff6666) ![example label](https://labl.es/svg?text=priority-%20low&bgcolor=ffb3b3)
 Status | | ![example label](https://labl.es/svg?text=blocked&bgcolor=66ffcc) ![example label](https://labl.es/svg?text=blocker&bgcolor=66ffcc) ![example label](https://labl.es/svg?text=question&bgcolor=66ffcc) ![example label](https://labl.es/svg?text=needs%20estimate&bgcolor=66ffcc) ![example label](https://labl.es/svg?text=needs%20revision&bgcolor=66ffcc)
 Work Type | Front-end | ![example label](https://labl.es/svg?text=pattern&bgcolor=ffcc00) ![example label](https://labl.es/svg?text=theming&bgcolor=ffcc00)
 Work Type | Back-end | ![example label](https://labl.es/svg?text=migration&bgcolor=ffeb99) ![example label](https://labl.es/svg?text=drupal&bgcolor=ffeb99)
