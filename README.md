@@ -15,7 +15,7 @@ Work Type | Other | ![example label](https://labl.es/svg?text=documentation&bgco
 DevOps | | ![example label](https://labl.es/svg?text=deployment&bgcolor=cc0066) ![example label](https://labl.es/svg?text=needs%20manuel%20deployment&bgcolor=cc0066) ![example label](https://labl.es/svg?text=hotfix&bgcolor=cc0066)
 Planning | | ![example label](https://labl.es/svg?text=epic&bgcolor=66ffcc) ![example label](https://labl.es/svg?text=sprint%20planning&bgcolor=66ffcc) ![example label](https://labl.es/svg?text=sprint%20retrospective&bgcolor=66ffcc)
 Supplementary | | ![example label](https://labl.es/svg?text=security&bgcolor=00e1ff) ![example label](https://labl.es/svg?text=SEO&bgcolor=00e1ff)
-Inactive | | ![example label](https://labl.es/svg?text=duplicate&bgcolor=ffffff)
+Inactive | | ![example label](https://labl.es/svg?text=duplicate&bgcolor=d9d9d9)
 
 
 
