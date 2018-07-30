@@ -13,26 +13,10 @@ Work Type | Design | ![example label](https://labl.es/svg?text=UX/design&bgcolor
 Work Type | Content | ![example label](https://labl.es/svg?text=content&bgcolor=ffd9b3)
 Work Type | Other | ![example label](https://labl.es/svg?text=documentation&bgcolor=ffeb99)
 DevOps | | ![example label](https://labl.es/svg?text=deployment&bgcolor=cc0066) ![example label](https://labl.es/svg?text=needs%20manuel%20deployment&bgcolor=cc0066) ![example label](https://labl.es/svg?text=hotfix&bgcolor=cc0066)
-Planning | | ![example label](https://labl.es/svg?text=epic&bgcolor=aefcb6) ![example label](https://labl.es/svg?text=sprint%20planning&bgcolor=aefcb6) ![example label](https://labl.es/svg?text=sprint%20retrospective&bgcolor=aefcb6)
+Planning | | ![example label](https://labl.es/svg?text=epic&bgcolor=66ffcc) ![example label](https://labl.es/svg?text=sprint%20planning&bgcolor=66ffcc) ![example label](https://labl.es/svg?text=sprint%20retrospective&bgcolor=66ffcc)
 Supplementary | | ![example label](https://labl.es/svg?text=security&bgcolor=00e1ff) ![example label](https://labl.es/svg?text=SEO&bgcolor=00e1ff)
 Inactive | | ![example label](https://labl.es/svg?text=duplicate&bgcolor=ffffff)
 
-
-**Scheme B**
-
-Group | Subgroup | Label |
---- | --- | ---
-Priority Level | | ![example label](https://labl.es/svg?text=priority-%20critical&bgcolor=ff0000) ![example label](https://labl.es/svg?text=priority-%20high&bgcolor=ff6666) ![example label](https://labl.es/svg?text=priority-%20low&bgcolor=ffb3b3)
-Status | | ![example label](https://labl.es/svg?text=blocked&bgcolor=66ffcc) ![example label](https://labl.es/svg?text=blocker&bgcolor=66ffcc) ![example label](https://labl.es/svg?text=question&bgcolor=66ffcc) ![example label](https://labl.es/svg?text=needs%20estimate&bgcolor=66ffcc) ![example label](https://labl.es/svg?text=needs%20revision&bgcolor=66ffcc)
-Work Type | Front-end | ![example label](https://labl.es/svg?text=pattern&bgcolor=ffcc00) ![example label](https://labl.es/svg?text=theming&bgcolor=ffcc00)
-Work Type | Back-end | ![example label](https://labl.es/svg?text=migration&bgcolor=ffeb99) ![example label](https://labl.es/svg?text=drupal&bgcolor=ffeb99)
-Work Type | Design | ![example label](https://labl.es/svg?text=UX/design&bgcolor=ffd9b3)
-Work Type | Content | ![example label](https://labl.es/svg?text=content&bgcolor=ffa64d)
-Work Type | Other | ![example label](https://labl.es/svg?text=documentation&bgcolor=ff8000)
-DevOps | | ![example label](https://labl.es/svg?text=deployment&bgcolor=00e1ff) ![example label](https://labl.es/svg?text=needs%20manuel%20deployment&bgcolor=00e1ff) ![example label](https://labl.es/svg?text=hotfix&bgcolor=00e1ff)
-Planning | | ![example label](https://labl.es/svg?text=epic&bgcolor=cc0066) ![example label](https://labl.es/svg?text=sprint%20planning&bgcolor=cc0066) ![example label](https://labl.es/svg?text=sprint%20retrospective&bgcolor=cc0066)
-Supplementary | | ![example label](https://labl.es/svg?text=security&bgcolor=d9d9d9) ![example label](https://labl.es/svg?text=SEO&bgcolor=d9d9d9)
-Inactive | | ![example label](https://labl.es/svg?text=duplicate&bgcolor=3a2a9e)
 
 
 
